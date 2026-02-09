@@ -1,7 +1,7 @@
 "use client";
 import React, { useMemo } from "react";
 
-const emojis = ["🧸", "🌹", "🦋", "💖", "💋"];
+const emojis = ["💕", "🌹", "💖", "🌸", "💋"];
 
 const FloatingEmojis = ({ count = 10 }) => {
   // Generate all random emoji properties once
